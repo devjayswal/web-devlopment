@@ -1,0 +1,36 @@
+*{margin: 5%;
+margin-top: 0%;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+font-size: 16px;}
+
+
+
+
+header{text-align:justify;
+    line-height: 25%;
+    color: aliceblue;
+    border: 1px solid #ec5151 ;
+    background-color: #ee5858;
+    height: auto;
+    padding: 2%;
+    text-decoration: solid;
+    margin: 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+
+    
+    }
+fieldset{
+    background-color:#e4dfdf ;
+   
+    
+    
+}
+input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
